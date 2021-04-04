@@ -1,0 +1,49 @@
+
+/*--- Abel Fonts ----*/
+@font-face
+{
+    font-family: Abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf);
+}
+
+/*--- Anton Fonts ----*/
+@font-face
+{
+    font-family: Anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+
+/*--- Canotora_One Fonts ----*/
+@font-face
+{
+    font-family: Canotora;
+    src: url(../fonts/Cantora_One/CantoraOne-Regular.ttf);
+}
+
+/*--- Josefin sans Fonts ----*/
+@font-face
+{
+    font-family: Josefin;
+    src: url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
+/*--- Lexend Fonts ----*/
+@font-face
+{
+    font-family: Lexend;
+    src: url(../fonts/Lexend/Lexend-Regular.ttf);
+}
+
+/*--- Lexend Decca Fonts ----*/
+@font-face
+{
+    font-family: Lexend Deca;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+
+/*--- Livvic Fonts ----*/
+@font-face
+{
+    font-family: Livic;
+    src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
